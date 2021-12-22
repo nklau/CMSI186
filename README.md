@@ -1,6 +1,6 @@
 # CMSI186
 
-**My code from CMSI 186: Programming Laboratory at LMU**
+<ins>My code from CMSI 186: Programming Laboratory at LMU</ins>
 
 **High Roller Game**: Text-based dice game played on the command line
 
